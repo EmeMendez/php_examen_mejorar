@@ -1,0 +1,153 @@
+
+
+body .form{
+	margin-right: 15%;
+	margin-left: 15%;
+	color: black;
+	font-family: helvetica;
+	border-style: solid;
+    border-width: 2px;
+    border-color: black;
+
+}
+
+body .form h1{
+	margin-left: 10%;
+
+}
+
+body .form table{
+	margin-left: 10%;
+
+}
+body .form table tr td{
+	padding: 1.5%;
+}
+
+body .form table tr td input{
+	margin-left: 20%;
+
+
+}
+
+.input{
+	border-style: solid;
+	border-color: black;
+	border-radius: 3px;
+}
+
+#boton{
+	padding-left: 20%;
+	padding-right: 20%;
+	padding: 1%;
+	padding-left: 5%;
+	padding-right: 5%;
+	border-radius: 4px;
+	border-style: solid;
+	border-color: black;
+	margin-top: 20%;
+	width: auto;
+}
+
+#creacion{
+	margin-left: 10%;
+	padding-bottom: 10%;
+}
+
+body .form #creacion h2{;
+	padding-bottom: 15%;
+	padding-top: 5%;
+}
+
+
+
+#cabecera{
+	background: gray;
+	text-align: center;
+
+}
+.form_orden{
+	margin-right: 5%;
+	margin-left: 5%;
+	color: black;
+	font-family: helvetica;
+	border-style: solid;
+    border-width: 2px;
+    border-color: black;
+
+}
+
+.form_orden table{
+	margin-left: 5%;
+}
+
+.form_orden h1{
+	margin-left: 5%;
+}
+
+.form_orden tr td input{
+	margin-left: 0%;
+	padding: 1%;
+	width: 170px;
+	border-radius: 4px;
+}
+
+.form_orden tr td select{
+	width: 178px;
+	border-radius: 4px;
+}
+.form_orden tr td #fecha{
+	width: 150px;
+}
+.form_orden tr td #cantidad{
+	width: 40px;
+	margin-right:20px;
+}
+
+.form_orden tr td #uni{
+	width: 70px;
+}
+
+#span{
+	text-align: center;
+
+}
+
+
+body .orden1{
+	margin-right: 10%;
+	margin-left: 10%;
+	color: black;
+	font-family: helvetica;
+	border-style: solid;
+    border-width: 2px;
+    border-color: black;
+
+
+}
+
+
+#tablita{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+
+.orden-sub{
+	margin-left: 5%;
+
+}
+
+#crud{margin-left: 10%;
+	}
+
+.index{
+	border: 3px solid black;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+#cab{
+	background-color: gray;
+}
+
